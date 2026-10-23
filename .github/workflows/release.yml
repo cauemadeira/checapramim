@@ -1,0 +1,26 @@
+name: Release
+
+# Ao publicar uma tag (ex.: v0.1.0), gera os pacotes e cria a Release com os arquivos anexados.
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gerar pacotes
+        run: python3 scripts/build.py
+      - name: Criar Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            dist/checapramim.zip dist/checapramim-arquivo-unico.zip dist/SKILL.md \
+            --title "${{ github.ref_name }}" \
+            --generate-notes

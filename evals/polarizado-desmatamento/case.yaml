@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: polarizado-desmatamento
+expected_outcome: |
+  Usa INPE (PRODES/DETER) como fonte primaria, distingue as metricas, aplica a mesma regua aos dois lados, e conclui com 'Nao e bem assim' ou veredito especifico por afirmacao.

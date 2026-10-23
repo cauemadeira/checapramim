@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: card-sem-origem-pix
+expected_outcome: |
+  Falso/enganoso: nao ha comunicado do BC com esse conteudo; o BC ja desmentiu cobranca de Pix para pessoa fisica. Deve tratar o card como nivel D e checar a existencia da publicacao original e o conteudo.

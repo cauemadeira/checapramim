@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: boato-whatsapp-dipirona
+expected_outcome: |
+  Falso (ou, no máximo, 'Não é bem assim' com ressalvas); localiza fonte primária da Anvisa ou checagem de terceiros; nao confunde com proibicoes em outros paises sem explicar.

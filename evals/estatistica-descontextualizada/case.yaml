@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: estatistica-descontextualizada
+expected_outcome: |
+  Nao e bem assim: em numeros absolutos esta entre os maiores, mas em taxa por 100 mil habitantes ha varios paises com taxas maiores; usa fonte primaria (UNODC, Fórum Brasileiro de Segurança Pública, Atlas da Violência).
