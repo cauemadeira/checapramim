@@ -1,6 +1,6 @@
 # Textos para o Instagram (rascunhos)
 
-O link abaixo aponta para o repositório. Antes de postar, confirme no seu aplicativo quais recursos de link estão disponíveis (link na bio, adesivo de link nos Stories) e as regras atuais para mensagens automáticas.
+O link usado nos textos é a página do projeto: https://haikai.pro/checapramim. Antes de postar, confirme no seu aplicativo quais recursos de link estão disponíveis (link na bio, adesivo de link nos Stories) e as regras atuais para mensagens automáticas.
 
 ## Legenda (carrossel ou Reels)
 
@@ -17,7 +17,7 @@ O diferencial: ela não confia em fonte só porque o site é famoso, nem desconf
 
 Ela não substitui os checadores profissionais e pode errar. Por isso mostra as fontes que usou e o que não conseguiu verificar.
 
-Baixe no link da bio. Se testar, me conta o que achou.
+Baixe no link da bio (haikai.pro/checapramim). Se testar, me conta o que achou.
 
 ## Ideias de slides do carrossel
 
@@ -31,7 +31,7 @@ Baixe no link da bio. Se testar, me conta o que achou.
 
 ## Resposta automática para comentário ou DM ("comente CHECA")
 
-> Oi! Aqui está o link para baixar o Checa pra mim: https://github.com/cauemadeira/checapramim
+> Oi! Aqui está o link para baixar o Checa pra mim: https://haikai.pro/checapramim
 > Funciona no Claude, no Gemini e no ChatGPT (instruções na página). Precisa da busca na web ligada. Se tiver dúvida na instalação, responde aqui.
 
 ## Cuidados antes de postar

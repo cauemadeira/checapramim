@@ -1,5 +1,7 @@
 # Checa pra mim
 
+**Página do projeto: https://haikai.pro/checapramim**
+
 Uma skill de checagem de fatos para assistentes de IA. Você cola uma afirmação, uma manchete, um boato ou um card e a IA busca evidências, pesa as fontes por critérios objetivos e responde com um veredito:
 
 **Verdadeiro** · **Falso** · **Não é bem assim** · **Sem evidência suficiente**
@@ -84,4 +86,4 @@ Edite sempre a pasta `skill/checapramim/`. A versão em arquivo único é gerada
 
 Você pode copiar, adaptar e redistribuir, inclusive para fins comerciais, desde que dê o crédito:
 
-> Checa pra mim, de Cauê Madeira / Haikai AI Office. https://github.com/cauemadeira/checapramim
+> Checa pra mim, de Cauê Madeira / Haikai AI Office. https://haikai.pro/checapramim
