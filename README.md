@@ -74,7 +74,7 @@ docs/                textos de divulgação
 ```
 
 Para gerar os pacotes localmente: `python3 scripts/build.py`.
-Para publicar uma versão: atualize o `CHANGELOG.md`, então `git tag v0.1.0 && git push origin v0.1.0`. A Release é criada com os arquivos anexados.
+Para publicar uma versão: atualize o `CHANGELOG.md`, então no GitHub vá em Releases > Draft a new release, crie a tag (ex.: `v0.1.0`) e clique em Publish. A automação gera os pacotes e os anexa à Release.
 
 Edite sempre a pasta `skill/checapramim/`. A versão em arquivo único é gerada a partir dela.
 
