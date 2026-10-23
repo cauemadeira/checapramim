@@ -38,4 +38,4 @@ Baixe no link da bio. Se testar, me conta o que achou.
 
 - Use um exemplo de checagem atual e confira você mesmo os links que a IA citou. Dados mudam, e um exemplo desatualizado desgasta a credibilidade de um projeto de checagem.
 - Não prometa "100% de acerto" nem "detecta qualquer fake news". O próprio veredito inclui "Sem evidência suficiente".
-- Diga quais plataformas você realmente testou. Hoje só o Claude foi testado (ver README).
+- Diga o que foi testado: a skill foi instalada e usada com sucesso no Claude, no Claude Cowork, no ChatGPT e no Gemini, mas só o Claude teve avaliação estruturada (ver README). Planos e versões dos aplicativos podem mudar o resultado.

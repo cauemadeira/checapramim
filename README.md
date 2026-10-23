@@ -58,10 +58,10 @@ Detalhes em `skill/checapramim/SKILL.md` e `skill/checapramim/references/`.
 
 | Plataforma | Estado |
 |---|---|
-| Claude | Testada em 4 casos (ver [`evals/RESULTADOS-iteracao-1.md`](evals/RESULTADOS-iteracao-1.md)) |
-| Gemini, ChatGPT, Cowork | **Ainda não testada.** Atualize esta tabela após testar |
+| Claude | Testada em 4 casos com avaliação registrada (ver [`evals/RESULTADOS-iteracao-1.md`](evals/RESULTADOS-iteracao-1.md)) |
+| Claude Cowork, ChatGPT, Gemini | Instalada e testada manualmente pelo autor em outubro de 2026; funcionou nas três. Sem avaliação estruturada |
 
-Os 4 casos são pequenos e os critérios de avaliação foram escritos pelo próprio autor, então os resultados indicam direção, não garantia.
+Os 4 casos avaliados são pequenos e os critérios foram escritos pelo próprio autor, então os resultados indicam direção, não garantia. Os testes manuais em Cowork, ChatGPT e Gemini foram informais e não geraram registro de casos. Se algo se comportar de forma diferente na sua conta ou no seu plano, abra uma issue contando a plataforma e o que aconteceu.
 
 ## Para quem mantém o repositório
 
